@@ -46,17 +46,13 @@ Sunday       31 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     12 mins             ██████████████████░░░░░░░   74.48% 
-Vim Script               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
-Lua                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   9.71% 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.51% 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -77,5 +73,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kopp4/kopp4/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/07/2022 02:26:25 UTC
+ Last Updated on 24/07/2022 02:31:43 UTC
 <!--END_SECTION:waka-->
