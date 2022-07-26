@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,13 +46,15 @@ Sunday       32 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     37 mins             ████████████████░░░░░░░░░   66.74% 
+Java                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.56% 
+conf                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   56 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    56 mins             █████████████████████████   100.0%
 
 ```
 
@@ -73,5 +75,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kopp4/kopp4/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/07/2022 02:25:43 UTC
+ Last Updated on 26/07/2022 02:36:38 UTC
 <!--END_SECTION:waka-->
