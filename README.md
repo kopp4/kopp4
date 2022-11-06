@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,5 +77,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kopp4/kopp4/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2022 02:14:26 UTC
+ Last Updated on 06/11/2022 02:22:51 UTC
 <!--END_SECTION:waka-->
