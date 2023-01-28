@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,11 +46,11 @@ Sunday       35 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   41.7% 
-conf                     1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   23.93% 
-sh                       32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.53% 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
-SCSS                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.14%
+Other                    3 hrs 17 mins       █████████████░░░░░░░░░░░░   51.59% 
+conf                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.12% 
+sh                       34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.94% 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.63% 
+SCSS                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15%
 
 🔥 Editors: 
 Neovim                   6 hrs 23 mins       █████████████████████████   100.0%
@@ -77,6 +77,6 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kopp4/kopp4/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2023 01:48:53 UTC
+ Last Updated on 28/01/2023 01:48:33 UTC
 <!--END_SECTION:waka-->
 ![shields.io](https://img.shields.io/github/commit-activity/w/kopp4/kopp4?color=g&label=abusing%20bot&style=flat-square)
