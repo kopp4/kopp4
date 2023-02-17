@@ -3,7 +3,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-218%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,17 +46,17 @@ Sunday          34 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-yuck                     4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-conf                     4 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-sh                       4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Python                   1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Lua                      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+yuck                     4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+conf                     4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+sh                       3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Python                   1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Lua                      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 🔥 Editors: 
-Neovim                   23 hrs 22 mins      █████████████████████████   100.00 % 
+Neovim                   21 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    23 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 33 mins      █████████████████████████   100.00 % 
 
 ```
 
@@ -77,6 +77,6 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kopp4/kopp4/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2023 01:51:41 UTC
+ Last Updated on 17/02/2023 01:52:21 UTC
 <!--END_SECTION:waka-->
 ![shields.io](https://img.shields.io/github/commit-activity/w/kopp4/kopp4?color=g&label=abusing%20bot&style=flat-square)
