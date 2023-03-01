@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-242.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-250.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,17 +44,17 @@ Sunday                   43 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-HTML                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-sh                       1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Other                    1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-conf                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Python                   2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   45.03 % 
+CSV                      56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+HTML                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Text                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 3 mins       █████████████████████████   100.00 % 
+Neovim                   5 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,6 +74,6 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopp4/kopp4/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2023 01:50:09 UTC
+ Last Updated on 01/03/2023 05:04:44 UTC
 <!--END_SECTION:waka-->
 ![shields.io](https://img.shields.io/github/commit-activity/w/kopp4/kopp4?color=g&label=abusing%20bot&style=flat-square)
