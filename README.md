@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-531.2%20thousand%20lines%20of%20code-blue)
 
@@ -44,17 +44,17 @@ Sunday                   108 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Text                     57 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Bash                     57 mins             █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-confini                  43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-conf                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Java                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Text                     57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+conf                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+confini                  50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Bash                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+sh                       20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 🔥 Editors: 
-Neovim                   5 hrs               █████████████████████████   100.00 % 
+Neovim                   4 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs               █████████████████████████   100.00 % 
+Linux                    4 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -74,6 +74,6 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopp4/kopp4/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2023 01:33:22 UTC
+ Last Updated on 15/04/2023 01:35:53 UTC
 <!--END_SECTION:waka-->
 ![shields.io](https://img.shields.io/github/commit-activity/w/kopp4/kopp4?color=g&label=abusing%20bot&style=flat-square)
