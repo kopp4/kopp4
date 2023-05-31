@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 146.1 kB Used in GitHub's Storage 
+> 📦 146.2 kB Used in GitHub's Storage 
  > 
 > 🏆 166 Contributions in the Year 2023
  > 
@@ -44,17 +44,17 @@ Sunday                   303 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Text                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-SQL                      1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+JavaScript               1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Text                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+SQL                      1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+yuck                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Python                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 45 mins       █████████████████████████   100.00 % 
+Neovim                   7 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,6 +74,6 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopp4/kopp4/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2023 01:42:34 UTC
+ Last Updated on 31/05/2023 01:53:56 UTC
 <!--END_SECTION:waka-->
 ![shields.io](https://img.shields.io/github/commit-activity/w/kopp4/kopp4?color=g&label=abusing%20bot&style=flat-square)
