@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,10 +44,10 @@ Sunday                   345 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-GDScript                 24 mins             ███████████░░░░░░░░░░░░░░   45.99 % 
-ActionScript 3           12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Ezhil                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-XML                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+GDScript                 24 mins             ████████████░░░░░░░░░░░░░   46.11 % 
+ActionScript 3           12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Ezhil                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+XML                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
@@ -74,6 +74,6 @@ SCSS                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopp4/kopp4/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2023 01:14:37 UTC
+ Last Updated on 24/08/2023 01:14:24 UTC
 <!--END_SECTION:waka-->
 ![shields.io](https://img.shields.io/github/commit-activity/w/kopp4/kopp4?color=g&label=abusing%20bot&style=flat-square)
