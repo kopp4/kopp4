@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -9,7 +9,7 @@
 
 > 📦 147.8 kB Used in GitHub's Storage 
  > 
-> 🏆 254 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,17 +44,16 @@ Sunday                   348 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 54 mins             ███████████████░░░░░░░░░░   59.90 % 
-Other                    17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-conf                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Other                    4 mins              ████████████████░░░░░░░░░   62.66 % 
+Python                   2 mins              ████████░░░░░░░░░░░░░░░░░   30.79 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+sh                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-Neovim                   1 hr 30 mins        █████████████████████████   100.00 % 
+Neovim                   7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 30 mins        █████████████████████████   100.00 % 
+Linux                    7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,6 +73,6 @@ SCSS                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopp4/kopp4/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2023 01:26:25 UTC
+ Last Updated on 01/01/2024 01:34:19 UTC
 <!--END_SECTION:waka-->
 ![shields.io](https://img.shields.io/github/commit-activity/w/kopp4/kopp4?color=g&label=abusing%20bot&style=flat-square)
