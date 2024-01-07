@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,17 +44,15 @@ Sunday                   348 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-conf                     14 mins             ████████████████░░░░░░░░░   64.97 % 
-Other                    4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+conf                     18 mins             ██████████████████████░░░   88.76 % 
+JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+zsh                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Neovim                   21 mins             █████████████████████████   100.00 % 
+Neovim                   20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    21 mins             █████████████████████████   100.00 % 
+Linux                    20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,6 +72,6 @@ SCSS                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopp4/kopp4/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2024 01:21:05 UTC
+ Last Updated on 07/01/2024 01:33:56 UTC
 <!--END_SECTION:waka-->
 ![shields.io](https://img.shields.io/github/commit-activity/w/kopp4/kopp4?color=g&label=abusing%20bot&style=flat-square)
