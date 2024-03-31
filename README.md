@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -13,7 +13,7 @@
  > 
 > 📜 17 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 14 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -42,17 +42,16 @@ Sunday                   357 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   22 mins             ███████████░░░░░░░░░░░░░░   45.08 % 
-conf                     19 mins             ██████████░░░░░░░░░░░░░░░   39.07 % 
-Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-sh                       3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+conf                     22 mins             ██████████░░░░░░░░░░░░░░░   38.56 % 
+sh                       22 mins             ██████████░░░░░░░░░░░░░░░   38.27 % 
+Other                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 
 🔥 Editors: 
-Neovim                   49 mins             █████████████████████████   100.00 % 
+Neovim                   58 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    49 mins             █████████████████████████   100.00 % 
+Linux                    58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,6 +71,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopp4/kopp4/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2024 01:15:15 UTC
+ Last Updated on 31/03/2024 01:24:14 UTC
 <!--END_SECTION:waka-->
 ![shields.io](https://img.shields.io/github/commit-activity/w/kopp4/kopp4?color=g&label=abusing%20bot&style=flat-square)
