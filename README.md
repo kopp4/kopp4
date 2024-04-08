@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,15 +42,17 @@ Sunday                   358 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-conf                     6 mins              █████████████░░░░░░░░░░░░   52.50 % 
-yuck                     5 mins              ███████████░░░░░░░░░░░░░░   45.21 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Bash                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+conf                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Other                    17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Markdown                 17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+yuck                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 🔥 Editors: 
-Neovim                   11 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr 35 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,6 +72,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopp4/kopp4/main/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2024 01:24:12 UTC
+ Last Updated on 08/04/2024 01:19:41 UTC
 <!--END_SECTION:waka-->
 ![shields.io](https://img.shields.io/github/commit-activity/w/kopp4/kopp4?color=g&label=abusing%20bot&style=flat-square)
