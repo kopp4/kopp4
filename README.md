@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2025%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
@@ -42,14 +44,14 @@ Sunday                   367 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-sh                       40 mins             ███████████████████████░░   92.22 % 
-Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Bash                     3 mins              ██████████████████████░░░   88.26 % 
+sh                       0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 
 🔥 Editors: 
-Neovim                   43 mins             █████████████████████████   100.00 % 
+Neovim                   3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -69,6 +71,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopp4/kopp4/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2025 01:56:31 UTC
+ Last Updated on 29/03/2025 01:55:33 UTC
 <!--END_SECTION:waka-->
 ![shields.io](https://img.shields.io/github/commit-activity/w/kopp4/kopp4?color=g&label=abusing%20bot&style=flat-square)
