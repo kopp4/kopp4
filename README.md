@@ -44,8 +44,7 @@ Sunday                   367 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    18 mins             ████████████████████████░   97.70 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Other                    18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
 Neovim                   18 mins             █████████████████████████   100.00 % 
@@ -71,6 +70,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopp4/kopp4/main/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2025 02:01:08 UTC
+ Last Updated on 17/04/2025 01:59:35 UTC
 <!--END_SECTION:waka-->
 ![shields.io](https://img.shields.io/github/commit-activity/w/kopp4/kopp4?color=g&label=abusing%20bot&style=flat-square)
