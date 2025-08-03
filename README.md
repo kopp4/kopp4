@@ -44,13 +44,14 @@ Sunday                   372 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     12 mins             ████████████████████░░░░░   81.70 % 
+sh                       2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,6 +71,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopp4/kopp4/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2025 02:20:31 UTC
+ Last Updated on 03/08/2025 02:36:36 UTC
 <!--END_SECTION:waka-->
 ![shields.io](https://img.shields.io/github/commit-activity/w/kopp4/kopp4?color=g&label=abusing%20bot&style=flat-square)
