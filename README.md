@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 317.8 kB Used in GitHub's Storage 
+> 📦 317.9 kB Used in GitHub's Storage 
  > 
 > 🏆 29 Contributions in the Year 2025
  > 
@@ -44,8 +44,8 @@ Sunday                   374 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 0 secs              ████████████████░░░░░░░░░   62.50 % 
-gitignore                0 secs              █████████░░░░░░░░░░░░░░░░   37.50 % 
+gitignore                0 secs              █████████████████░░░░░░░░   68.75 % 
+Markdown                 0 secs              ████████░░░░░░░░░░░░░░░░░   31.25 % 
 
 🔥 Editors: 
 Neovim                   0 secs              █████████████████████████   100.00 % 
@@ -71,6 +71,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopp4/kopp4/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2025 01:54:01 UTC
+ Last Updated on 01/10/2025 02:06:42 UTC
 <!--END_SECTION:waka-->
 ![shields.io](https://img.shields.io/github/commit-activity/w/kopp4/kopp4?color=g&label=abusing%20bot&style=flat-square)
