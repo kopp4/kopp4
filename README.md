@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
@@ -17,43 +15,6 @@
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-🌆 Daytime                452 commits         ████████░░░░░░░░░░░░░░░░░   33.56 % 
-🌃 Evening                518 commits         ██████████░░░░░░░░░░░░░░░   38.46 % 
-🌙 Night                  206 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   296 commits         █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-Tuesday                  136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Wednesday                106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Thursday                 132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Friday                   143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Saturday                 160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Sunday                   374 commits         ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-gitignore                0 secs              █████████████████░░░░░░░░   68.75 % 
-Markdown                 0 secs              ████████░░░░░░░░░░░░░░░░░   31.25 % 
-
-🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -71,6 +32,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kopp4/kopp4/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 01:54:36 UTC
+ Last Updated on 03/10/2025 01:53:58 UTC
 <!--END_SECTION:waka-->
 ![shields.io](https://img.shields.io/github/commit-activity/w/kopp4/kopp4?color=g&label=abusing%20bot&style=flat-square)
